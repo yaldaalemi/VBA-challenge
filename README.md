@@ -30,12 +30,12 @@ Below, you can see screenshots of a part of the final result for each year:
 
 - **Year 2018**
   
-  ![Year 2018](./README Files/1.jpg)
+  ![Year 2018](./README_Files/1.jpg)
 
 - **Year 2019**
   
-  ![Year 2019](./README Files/2.jpg)
+  ![Year 2019](./README_Files/2.jpg)
 
 - **Year 2020**
   
-  ![Year 2020](./README Files/3.jpg)
+  ![Year 2020](./README_Files/3.jpg)
