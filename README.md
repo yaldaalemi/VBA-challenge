@@ -30,7 +30,7 @@ Below, you can see screenshots of a part of the final result for each year:
 
 - **Year 2018**
   
-  ![Year 2018](README Files/1.jpg)
+  ![Year 2018](./README Files/1.jpg)
 
 - **Year 2019**
   
