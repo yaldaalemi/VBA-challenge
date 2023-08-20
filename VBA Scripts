@@ -1,4 +1,4 @@
-## This section of the code if for filling in the Ticker and Total Stock Volume columns.
+/This section of the code if for filling in the Ticker and Total Stock Volume columns./
 Sub Ticker_StockVolume()
 For Each ws In Worksheets
     ws.Range("I1").Value = "Ticker"
@@ -38,7 +38,7 @@ For Each ws In Worksheets
 End Sub
 
  
-## This section of the code if for filling in the Yearly Change and Percent Change columns.
+/This section of the code if for filling in the Yearly Change and Percent Change columns./
 Sub Yearly_Percent_change()
 
 For Each ws In Worksheets
